@@ -118,4 +118,4 @@ http://127.0.0.1:5000
 **Khyathi Sri Dharmavarapu**
 
 - GitHub: https://github.com/khyathi15hue
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: www.linkedin.com/in/dharmavarapu-khyathi-sri-43868a2b9
